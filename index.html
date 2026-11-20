@@ -1,0 +1,11 @@
+<script>
+  function downloadfile(url, filename){
+    var a=document.createElement("a")
+    a.href=url
+    a.download=filename
+    a.click()
+  }
+</script>
+<input placeholder="Link to the file" id="file">
+<input placeholder="Name of the result" id="name">
+<button onclick="downloadfile(document.getElementById('file').value, document.getElementById('name').value)">Download</button>
