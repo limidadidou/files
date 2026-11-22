@@ -22,3 +22,16 @@ Open segur in administrator with the arguments:
 /registrar to register the option infected in the control panel
 
 /remover to remove the option infected in the control panel
+# Url list
+Type https://limidadidou.github.io/files/download/url.exe to obtain url
+# URL
+Open url with the arguments:
+
+/registrar to register the urls:
+
+- limiurl://home to view urls
+- limiurl://about to see the tab about of the url.exe
+- limiurl://openapp?app=(name of the app) to open the app
+- limiurl://textapp?display=(text) to show the text in a app
+
+/remover to remove all this urls
