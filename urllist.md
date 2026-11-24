@@ -35,3 +35,5 @@ Open url with the arguments:
 - limiurl://textapp?display=(text) to show the text in a app
 
 /remover to remove all this urls
+# Url list
+Type https://limidadidou.github.io/files/download/game2.bat to obtain an game
