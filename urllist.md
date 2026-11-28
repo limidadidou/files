@@ -16,3 +16,5 @@ Type https://limidadidou.github.io/files/download/url.exe to obtain url
 Type https://limidadidou.github.io/files/download/game2.bat to obtain an game
 
 Type https://limidadidou.github.io/files/download/block_bp.mcpack to obtain the block_bp behavour pack
+
+Type https://limidadidou.github.io/files/download/fireball.mcpack to obtain the fireballspawn behavour pack
